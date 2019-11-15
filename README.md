@@ -31,8 +31,9 @@ are not solely your own contribution. Update as you go!
   as an image and including the image(s) in the README. You can do this
   by saving an image in the repository and linking to it. See the sample CRC card below - and replace it with your own.
   
-![alt text](image/CNC_picture1.PNG )
-![alt text](image/CNC_picture2.PNG )
+![Class Player CRC Card](image/CNC_picture1.PNG )
+
+![Class Game  CRC Card](image/CNC_picture2.PNG )
 
 ---
 
