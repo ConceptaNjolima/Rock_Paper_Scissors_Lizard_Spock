@@ -31,7 +31,8 @@ are not solely your own contribution. Update as you go!
   as an image and including the image(s) in the README. You can do this
   by saving an image in the repository and linking to it. See the sample CRC card below - and replace it with your own.
   
-![alt text](image/crc.png "Image of CRC card as an example. Upload your CRC card(s) in place of this one")
+![alt text](image/CNC_picture1.PNG )
+![alt text](image/CNC_picture2.PNG )
 
 ---
 
