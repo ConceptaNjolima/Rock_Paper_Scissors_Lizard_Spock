@@ -32,7 +32,6 @@ are not solely your own contribution. Update as you go!
   by saving an image in the repository and linking to it. See the sample CRC card below - and replace it with your own.
   
 ![Class Player CRC Card](image/CNC_picture1.PNG )
-
 ![Class Game  CRC Card](image/CNC_picture2.PNG )
 
 ---
