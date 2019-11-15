@@ -2,9 +2,9 @@
 
 **Term**: Fall 2019
 
-❗️**Author(s)**: Your name(s) here
+❗️**Author(s)**: Concepta Njolima
 
-❗️**Section**: A or B
+❗️**Section**: A 
 
 ❗**References**: 
 Throughout this project, you've likely used outside resources.
@@ -18,11 +18,11 @@ are not solely your own contribution. Update as you go!
 ## Milestone 1: Setup, Planning, Design
 *Due Friday, 11/15, by the **start of class**.*
 
-❗️**Project Title**: What will your final product be called? 
+❗️**Project Title**: Rock, Paper, Lizard, Spock, Scissors
 
-❗**Purpose**: In a single sentence, describe what your program will do.
+❗**Purpose**: The program will enable users to play Rock,Paper,Lizard,Spock, and Scissors
 
-❗️**Sources**: What assignments/code will your final project be based on?
+❗️**Sources**: A07-Rock, Paper, Scissor
 
 ❗️**Completed CRC card for the class you will implement**:
   - See this link for a sample CRC card and a template to
