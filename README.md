@@ -2,11 +2,11 @@
 
 **Term**: Fall 2019
 
-❗️**Author(s)**: Concepta Njolima
+**Author(s)**: Concepta Njolima
 
-❗️**Section**: A 
+**Section**: A 
 
-❗**References**: 
+**References**: 
 Throughout this project, you've likely used outside resources.
 Reference all ideas which are not your own, and describe and
 how you integrated the ideas or code into your program. This includes
@@ -18,13 +18,12 @@ are not solely your own contribution. Update as you go!
 ## Milestone 1: Setup, Planning, Design
 *Due Friday, 11/15, by the **start of class**.*
 
-❗️**Project Title**: Rock, Paper, Lizard, Spock, Scissors
+**Project Title**: Rock, Paper, Lizard, Spock, Scissors
 
-❗**Purpose**: The program will enable users to play Rock,Paper,Lizard,Spock, and Scissors
+**Purpose**: The program will enable users to play Rock,Paper,Lizard,Spock, and Scissors
+️**Sources**: A07-Rock, Paper, Scissor
 
-❗️**Sources**: A07-Rock, Paper, Scissor
-
-❗️**Completed CRC card for the class you will implement**:
+**Completed CRC card for the class you will implement**:
   - See this link for a sample CRC card and a template to
   use for your own cards (you will have to make a copy to edit): https://docs.google.com/document/d/1JE_3Qmytk_JGztRqkPXWACJwciPH61VCx3idIlBCVFY/edit?usp=sharing
   - Tables in markdown are not easy, so we suggest saving your CRC card
