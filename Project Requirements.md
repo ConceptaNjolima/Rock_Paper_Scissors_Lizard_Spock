@@ -8,7 +8,7 @@ complete/update the items which they accompany.
 
 ---
 
-## ⚡️Project Overview
+##️Project Overview
 
 For your final project, you will be revisiting an earlier piece of code and refactoring it. (In other words, rewriting it to make it better.) In doing so, you must:
 1. Implement **at least** one class which is appropriate to your proposed project.
