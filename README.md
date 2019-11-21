@@ -7,11 +7,10 @@
 **Section**: A 
 
 **References**: 
-Throughout this project, you've likely used outside resources.
-Reference all ideas which are not your own, and describe and
-how you integrated the ideas or code into your program. This includes
-online sources, people who have helped you, and any other resources that
-are not solely your own contribution. Update as you go!
+ https://www.wrpsa.com/rock-paper-scissors-tournaments/
+ https://opencv.org/
+ https://www.youtube.com/watch?v=TGQcDaZ56ao
+ 
 
 ---
 
@@ -20,16 +19,11 @@ are not solely your own contribution. Update as you go!
 
 **Project Title**: Rock, Paper, Lizard, Spock, Scissors
 
-**Purpose**: The program will enable users to play Rock,Paper,Lizard,Spock, and Scissors
-️**Sources**: A07-Rock, Paper, Scissor
+**Purpose**: The program will enable a user to play Rock,Paper,Lizard,Spock, and Scissors against a computer. The user's choice will be from the camera  
+**Sources**: A07-Rock, Paper, Scissor
 
-**Completed CRC card for the class you will implement**:
-  - See this link for a sample CRC card and a template to
-  use for your own cards (you will have to make a copy to edit): https://docs.google.com/document/d/1JE_3Qmytk_JGztRqkPXWACJwciPH61VCx3idIlBCVFY/edit?usp=sharing
-  - Tables in markdown are not easy, so we suggest saving your CRC card
-  as an image and including the image(s) in the README. You can do this
-  by saving an image in the repository and linking to it. See the sample CRC card below - and replace it with your own.
-  
+**Completed CRC card for the classes you will implement**:
+
 ![Class Player CRC Card](image/crc1.PNG )
 ![Class Game  CRC Card](image/crc2.PNG )
 
