@@ -7,9 +7,9 @@
 **Section**: A 
 
 **References**: 
- https://www.wrpsa.com/rock-paper-scissors-tournaments/
- https://opencv.org/
- https://www.youtube.com/watch?v=TGQcDaZ56ao
+1. https://www.wrpsa.com/rock-paper-scissors-tournaments/
+2. https://opencv.org/
+3. https://www.youtube.com/watch?v=TGQcDaZ56ao
  
 
 ---
