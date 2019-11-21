@@ -1,4 +1,4 @@
-# ❗P01: My 226 Final Project
+# P01: My 226 Final Project
 
 **Term**: Fall 2019
 
@@ -30,8 +30,8 @@ are not solely your own contribution. Update as you go!
   as an image and including the image(s) in the README. You can do this
   by saving an image in the repository and linking to it. See the sample CRC card below - and replace it with your own.
   
-![Class Player CRC Card](image/CNC_picture1.PNG )
-![Class Game  CRC Card](image/CNC_picture2.PNG )
+![Class Player CRC Card](image/crc1.PNG )
+![Class Game  CRC Card](image/crc2.PNG )
 
 ---
 
