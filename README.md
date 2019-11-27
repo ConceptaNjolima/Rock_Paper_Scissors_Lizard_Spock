@@ -43,7 +43,7 @@ No README action items. Focus on your code! 🙃
 
 Add a note to this section that indicates what percentage of the project you have left to complete. 
 
-❗️**Completion Percentage**: 0 - 100%
+**Completion Percentage**: 0%
 
 ---
 
