@@ -10,6 +10,8 @@
 1. https://www.wrpsa.com/rock-paper-scissors-tournaments/
 2. https://opencv.org/
 3. https://www.youtube.com/watch?v=TGQcDaZ56ao
+4.https://likegeeks.com/python-image-processing/#Reduce-Noise
+5.https://stackoverflow.com/questions/34588464/python-how-to-capture-image-from-webcam-on-click-using-opencvhttps://stackoverflow.com/questions/34588464/python-how-to-capture-image-from-webcam-on-click-using-opencv
  
 
 ---
@@ -43,7 +45,7 @@ No README action items. Focus on your code! 🙃
 
 Add a note to this section that indicates what percentage of the project you have left to complete. 
 
-**Completion Percentage**: 0%
+**Completion Percentage**: 20%
 
 ---
 
