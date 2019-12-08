@@ -40,7 +40,7 @@ assignments together to create something new and interesting!
 
 ---
 
-## 📌Milestone 2: Code
+## Milestone 2: Code
 *Due Friday, 11/22, by the **start of class**.*
 
 1. Create and add the new file(s) to your repository for your final project code.
@@ -62,7 +62,7 @@ assignments together to create something new and interesting!
 
 ---
 
-## 📌Milestone 4: Final Code, Presentation, Demo
+## Milestone 4: Final Code, Presentation, Demo
 *Due at the start of your section's Final Exam period.*
 
 1. Final version of your code:
