@@ -23,7 +23,7 @@ assignments together to create something new and interesting!
 
 ---
 
-## 📌Milestone 1: Setup, Planning, Design
+## Milestone 1: Setup, Planning, Design
 *Due Friday, 11/15, by the **start of class**.*
 
 1. Create your project repository (this one!) 
@@ -75,7 +75,7 @@ assignments together to create something new and interesting!
     - Your README will be graded as it appears on GitHub, so make sure to double check how your formatting looks in a browser (not PyCharm's unformatted version)!
 3. In-class lightning presentation (5 minutes, 3 slides)
     - Your slides must be uploaded to your repository as images or a PDF file (not PowerPoint!)
-    - You should briefly summarize your response to all of the Milestone 3 README prompts/subheadings
+    - Your presentation should be similar to a sales pitch about why your project is the awesomest.
     - You should not have any slides that consist entirely of code, nor should you focus on talking about the details of your code
 4. In-class live demo to your classmates
 5. **Commit and push** your work before your section's exam period!
