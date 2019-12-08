@@ -57,7 +57,7 @@ Add a note to this section that indicates what percentage of the project you hav
 
 ### User Instructions
 
-Hit the start game button, then your web cam is launched. Using your fingers, choose an option that corresponds to rock, paper, scissors, lizard, spock. The representations of these are summarised under instructions that can be accessed when the "How to play section" .  After making a choice, click letter "s on the keyboard to save the choice. Then the player and computer boards will updated with the choices made and the scores. The player and computer play for five rounds before the winner  of the game is announced.   
+Hit the start game button, then your web cam is launched. Using your fingers,choose an option that corresponds to rock, paper, scissors, lizard, spock. The representations of these are summarised under instructions that can be accessed when the "How to play section" .  After making a choice, click letter "s on the keyboard to save the choice. Then the player and computer boards will updated with the choices made and the scores. The player and computer play for five rounds before the winner  of the game is announced.   
  
 ### Errors and Constraints
 - The in accuracy in finger detection especially for more than four fingers.

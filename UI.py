@@ -67,7 +67,7 @@ class Ui:
         :return: None
         """
         self.project_image_canvas = Canvas(self.root, height=1500, width=1800)
-        self.background = PhotoImage(file="background.png")
+        self.background = PhotoImage(file="image/background.png")
         self.project_image_canvas.create_image(700, 450, image=self.background)
         self.project_image_canvas.pack()
 
@@ -100,15 +100,15 @@ class Ui:
         self.general_instruction.config(font=("Helvetica", 18))
         self.general_instruction.pack()
         self.background_canvas = Canvas(self.root, height=1800, width=1800, background=None)
-        self.rock_image = PhotoImage(file="rock.png")
+        self.rock_image = PhotoImage(file="image/rock.png")
         self.background_canvas.create_image(290, 90, image=self.rock_image)
-        self.paper_image = PhotoImage(file="paper.png")
+        self.paper_image = PhotoImage(file="image/paper.png")
         self.background_canvas.create_image(520, 90, image=self.paper_image)
-        self.scissors_image = PhotoImage(file="scissors.png", )
+        self.scissors_image = PhotoImage(file="image/scissors.png", )
         self.background_canvas.create_image(750, 90, image=self.scissors_image)
-        self.lizard_image = PhotoImage(file="lizard.png")
+        self.lizard_image = PhotoImage(file="image/lizard.png")
         self.background_canvas.create_image(1135, 90, image=self.lizard_image)
-        self.spock_image = PhotoImage(file="spock.png")
+        self.spock_image = PhotoImage(file="image/spock.png")
         self.background_canvas.create_image(975, 90, image=self.spock_image)
 
         self.back_button = Button(self.background_canvas, text="BACK", height=5, width=15, background="tomato",command=self.back_button_handler)
