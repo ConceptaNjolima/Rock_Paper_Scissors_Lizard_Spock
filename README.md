@@ -25,7 +25,7 @@
 
 **Purpose**: The program will enable a user to play Rock,Paper,Lizard,Spock, and Scissors against a computer. The user's choice will be from the camera  
 **Sources**: A07-Rock, Paper, Scissor
-             A10-PPM
+             ,A10-PPM
 
 **Completed CRC card for the classes you will implement**:
 
